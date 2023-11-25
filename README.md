@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next - Documentation
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+[![ChatGpt](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
-First, run the development server:
+## What is Next?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Next.js is an open source web development framework for React, a JavaScript library used to build user interfaces in web applications. Next.js makes it easy to build React web applications efficiently, providing additional structure and features for development.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Index
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+* [Introduction](Introduction)
+* [Lesson 1 - Hello World](Hello-World)
+* [Lesson 30 - Conclusions](Conclusions)
+* [Next Steps](Next-Steps)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Introduction
 
-## Learn More
+Next.js is an open source React-based web development framework that simplifies and improves the process of building modern web applications. Developed by the React community and maintained by Vercel, Next.js offers a wide range of features that make it easy to build fast, efficient, and scalable applications.
 
-To learn more about Next.js, take a look at the following resources:
+## Important information and frequently asked questions
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Currently the course is in process. The basic, intermediate and backend blocks have been started, and that was the initial objective of the project. And after that I don't rule out adding new lessons in the future, but I think that for the moment it can serve as a basis for anyone who wants to start learning this language.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* As soon as the course continues, I will update the repository and notify the networks.
+Thank you very much for all the support shown!
 
-## Deploy on Vercel
+## Links of Interest
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* [Next Official Website](https://nextjs.org/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* [Official Next in Spanish](https://nextjs.org/docs)
+
+* [30 Days of Next Repository](https://github.com/vercel/next.js)
+
+* [Game to Learn Next](https://www.freecodecamp.org/espanol/news/tag/nextjs/)
+
+* [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
+
+* [Node.js](https://nodejs.org/en) - The framework to create our Backend Api
+
+* [React.js](https://es.react.dev/) - The framework to create our Frontend
+
+* [Vue.js](https://vuejs.org/) - The framework to create our Frontend Api
+
+##
+
+#### You can support my work by "☆Star" the repo or nominate me for a "GitHub Star". Thank you!
+
+[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
