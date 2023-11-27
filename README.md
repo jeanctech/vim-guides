@@ -1,6 +1,6 @@
 # Next - Documentation
 
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 [![ChatGpt](https://img.shields.io/badge/ChatGPT-GPT--4-7CF178?style=for-the-badge&logo=openai&logoColor=white&labelColor=101010)](https://platform.openai.com)
 
 ## What is Next?
@@ -37,11 +37,11 @@ Thank you very much for all the support shown!
 
 * [Visual Studio Code](https://code.visualstudio.com/) - The editor I am using
 
-* [Node.js](https://nodejs.org/en) - The framework to create our Backend Api
+* [Node.js](https://nodejs.org/en) - The framework Alternative to the above
 
-* [React.js](https://es.react.dev/) - The framework to create our Frontend
+* [React.js](https://es.react.dev/) - The framework Alternative to the above
 
-* [Vue.js](https://vuejs.org/) - The framework to create our Frontend Api
+* [Vue.js](https://vuejs.org/) - The framework Alternative to the above
 
 ##
 
